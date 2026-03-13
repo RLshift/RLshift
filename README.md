@@ -4,7 +4,8 @@ I'm a 2nd year Computer Science student at University of Nottingham.
 
 ## 📊 Current Projects: 
 - **F1/10th Team**: Participating in 27th Roboracer Autonomous Racing Competition at the International Conference on Robotics and Automation ([ICRA 2026](https://2026.ieee-icra.org/))
-- 
+- **Arc**: SpotifyAPI project that allows users to customise the type of music they would like in their playlist (eg. specific genres, high energy, etc.), creating a playlist in their spotify accounts for them.
+- **2D Clicker Game:** PyGame project of a basic clicker game
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hailey-lau-b02155309/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:haileylau929@gmail.com) 
